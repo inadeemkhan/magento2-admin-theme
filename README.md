@@ -1,2 +1,2 @@
-# magento2-admin-theme-dark
-Free magento2 extension for Admin Dark Theme | Nadeem Khan
+# magento2-admin-theme
+Free magento2 extension for Admin Theme | Nadeem Khan
