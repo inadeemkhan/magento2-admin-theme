@@ -1,0 +1,31 @@
+{
+    "name": "nadeem/module-admin-theme",
+    "description": "Magento 2 extension to apply light theme on admin panel.",
+    "type": "magento2-module",
+    "version": "1.0.0",
+	"keywords": [
+        "magento2",
+        "admin theme light"
+    ],
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "support": {
+        "email": "ecomteck@gmail.com",
+        "issues": "https://github.com/inadeemkhan/module-admin-theme/issues"
+    },
+    "authors": [
+        {
+            "name": "Nadeem Khan",
+            "email": "khannadeem243@gmail.com",
+            "role": "Owner"
+        }
+    ],
+    "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Ecomteck\\AdminTheme\\": ""
+    }
+  }
+}
