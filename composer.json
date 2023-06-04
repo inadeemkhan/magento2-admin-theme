@@ -1,5 +1,5 @@
 {
-    "name": "inadeemkhan/module-admin-theme",
+    "name": "nadeem/module-admintheme",
     "description": "Magento 2 extension to apply light theme on admin panel.",
     "type": "magento2-module",
     "version": "1.0.0",
