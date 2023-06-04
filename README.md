@@ -24,21 +24,17 @@ Want to contribute to this extension? The quickest way is to <a href="https://he
 
 If you encounter any problems or bugs, please <a href="https://github.com/inadeemkhan/magento2-admin-theme/issues">open an issue</a> on GitHub.
 
-<b>Store->Configuration->Nadeem->Instagram->Instagram Cofiguration</b>
+<b>Admin Dashboard</b>
 
-<img src="https://i.ibb.co/Q9N7G2T/new.webp" alt="new" border="0">
+![ScreenShot](https://github.com/inadeemkhan/magento2-images/blob/master/admin_theme/Dashboard.png)
 
-<b>Create Post Slider</b>
+<b>Store Cofiguration</b>
 
-<img src="https://i.ibb.co/5LXGPGR/selectedimage.webp" alt="selectedimage" border="0">
+![ScreenShot](https://github.com/inadeemkhan/magento2-images/blob/master/admin_theme/Configuration.png)
 
-<b>Manage Post Slider</b>
+<b>Admin products</b>
 
-<img src="https://i.ibb.co/mbXnD6V/slider-list.webp" alt="slider-list" border="0">
-
-<b>Widget Post Slider</b>
-
-<img src="https://i.ibb.co/RDgzRZq/widget.webp" alt="widget" border="0">
+![ScreenShot](https://github.com/inadeemkhan/magento2-images/blob/master/admin_theme/Product-Page.png)
 
 ## Prerequisites
 
